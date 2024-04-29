@@ -14,7 +14,7 @@ The dataset used in this study contains credit card transactions made by credit 
 
 ## 4. How to Use?
 1. Deep Learning Approaches for Detecting Credit Card Fraud
-https://github.com/gaddamphanideepak/Human-Pose-Estimation/blob/main/Human_Pose_Estimate(Resnet_Model).ipynb
+https://github.com/RaviPrasadGrandhi/Deep-Learning-Approaches-for-Detecting-Credit-Card-Fraud/blob/main/Deep%20Learning%20Approaches%20for%20Detecting%20Credit%20Card%20Fraud.ipynb
 2. Each of the notebook files must be open using google colab and they should be run independently after adding the shortcut of provided dataset in the google drive.
 https://drive.google.com/drive/folders/1oF1OB3Fgd-9MVarUTB4sJYMg1alPZWpt?usp=drive_link
 
