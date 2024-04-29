@@ -6,8 +6,7 @@ This project aims to better detect fraudulent transactions in credit card data u
 ## 2. Dataset
 1. https://drive.google.com/file/d/1FqlA_clFuf2pHKW6EQMrMz86F4JfIFWu/view?usp=drive_link
 2. Open this link and go back to the folder.
-3. OCHuman Folder should be added to the shortcut in google drive.
-4. This will allow us to link between Dataset and Google Colab.
+3. This will allow us to link between Dataset and Google Colab.
 
 ## 3. Why this Dataset? 
 The dataset used in this study contains credit card transactions made by credit cards in September 2013 by European cardholders in two days. It has a total of 284,807 transactions, with 492 transactions being fraud and the rest non-fraud.
